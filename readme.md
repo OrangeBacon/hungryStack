@@ -1,4 +1,4 @@
-# hungryStack
+# hungryStack V0.1.0
 A reverse Polish Notation stack-orientated language written in Python.
 
 # Instalation - Windows
